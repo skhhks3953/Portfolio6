@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	
+	int decision;
 	
 	cout << "1.Food  2.Drinks" << endl;
 	cout << "Please enter an option : ";
